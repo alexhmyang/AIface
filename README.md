@@ -29,7 +29,7 @@ AI颜值测试与夫妻相匹配
 
 
 
-![image](https://picstatic.someonelikeu.cn/star_similar.png?imageslim)
+![image](https://picstatic.someonelikeu.cn/star_similar.png?imageView2/0/w/350/h/300/format/jpg|imageslim)
 
 明星夫妻相匹配：根据人的脸型及面部特征匹配最相似的异性，看看谁跟你最有夫妻相。
 
