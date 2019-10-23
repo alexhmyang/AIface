@@ -23,11 +23,11 @@ AI颜值测试与夫妻相匹配
 扫码体验
 
 
-![image](https://picstatic.someonelikeu.cn/star_similar.png?imageView2/1/w/350/h/500/format/jpg|imageslim)
+![image](https://picstatic.someonelikeu.cn/star_similar.png?imageView2/1/w/350/format/jpg|imageslim)
 明星夫妻相匹配：根据人的脸型及面部特征匹配最相似的异性，看看谁跟你最有夫妻相。
 
 
-![image](https://picstatic.someonelikeu.cn/qcode_post.jpg?imageView2/1/w/700/h/600/format/jpg|imageslim)
+![image](https://picstatic.someonelikeu.cn/qcode_post.jpg?imageView2/1/w/700/format/jpg|imageslim)
 欢迎大家扫码体验我们的AI颜值小程序，因为我们做的真心不错。
 
 
